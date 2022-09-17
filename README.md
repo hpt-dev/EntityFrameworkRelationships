@@ -1,4 +1,4 @@
-#Entity Framework - 1 to 1, 1 to Many and Many to Many Relationships with .NET 6 in 2022
+# Entity Framework - 1 to 1, 1 to Many and Many to Many Relationships with .NET 6 in 2022
 
 Source code used in this video: https://www.youtube.com/watch?v=9sXXfq0GDYI
 
